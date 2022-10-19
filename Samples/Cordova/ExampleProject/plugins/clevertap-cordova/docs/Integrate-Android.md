@@ -52,7 +52,7 @@
           implementation "com.google.firebase:firebase-messaging:22.0.0"
           implementation 'androidx.core:core:1.3.0'
           implementation 'androidx.fragment:fragment:1.3.6'
-          implementation "com.android.installreferrer:installreferrer:2.2" //Mandatory for v2.1.8 and above
+          implementation "com.android.installreferrer:installreferrer:2.1" //Mandatory for v2.1.8 and above
           //MANDATORY for App Inbox
           implementation 'androidx.appcompat:appcompat:1.3.1'
           implementation 'androidx.recyclerview:recyclerview:1.2.1'
